@@ -1,0 +1,5 @@
+**/source/*.*
+**/source/backup
+**/target/*.mp4
+**/target/temp
+**/__pycache__

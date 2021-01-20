@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  64bit32bit:
+    build: .
+    volumes: 
+      - type: bind
+        source: .
+        target: /usr/src/app/
